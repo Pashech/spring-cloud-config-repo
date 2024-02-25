@@ -1,4 +1,5 @@
-greeting=hi
-spring.datasource.url=jdbc:postgresql://localhost:5432/authorDb
-spring.datasource.username=fdgdfgfdg
-spring.datasource.password=gfgdgdgf
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/authorDb
+    username: postgres
+    password: postgres
