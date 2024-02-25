@@ -1,5 +1,5 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/authorDb
-    username: fdxgdgdfg
-    password: dgfgdfgd
+# spring:
+#   datasource:
+#     url: jdbc:postgresql://localhost:5432/authorDb
+#     username: fdxgdgdfg
+#     password: dgfgdfgd
